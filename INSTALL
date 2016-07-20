@@ -1,0 +1,9 @@
+Building NewZealandCoin
+
+See doc/readme-qt.rst for instructions on building NewZealandCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NewZealandCoin.
+
+See doc/build-*.txt for instructions on building newzealandcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NewZealandCoin.
